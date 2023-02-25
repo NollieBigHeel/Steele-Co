@@ -129,3 +129,8 @@ section {
 p i {
     color: red;
 }
+
+/* self storage */
+.img-small {
+    width: 75%;
+}
