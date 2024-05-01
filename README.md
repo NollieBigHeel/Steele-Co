@@ -1,6 +1,7 @@
 # Steele & Co
 
 ## This is a frontend website using HTML, JS, CSS and Bootstrap, based on my friend’s company.
+Preview Site: https://nolliebigheel.github.io/Steele-Co/SteeleAndCo/
 
 
 ### Why did I build this project?
